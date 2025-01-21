@@ -1,6 +1,6 @@
 # This Project is still in development
 
-Stack : MYSQL, Laravel, Reactjs
+Stack : MYSQL, Laravel PHP, Reactjs
 
 **Sections**
 ![image](https://github.com/user-attachments/assets/f4712e17-fb39-4cf3-961f-4798dd7f2e35)
