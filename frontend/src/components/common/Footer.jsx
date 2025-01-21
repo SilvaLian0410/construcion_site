@@ -25,8 +25,9 @@ const Footer = () => {
             <div className='col-md-3'>
             <h3 className='mb-3' >Quick Links</h3>
               <ul>
-                <li><a href='#'>Home</a></li>
-                <li><a href='#'>About Us</a></li>
+                <li><a href='/'>Home</a></li>
+                <li><a href='/about'>About Us</a></li>
+                <li><a href='/services'>Services</a></li>
                 <li><a href='#'>Projects</a></li>
                 <li><a href='#'>Blogs</a></li>
                 <li><a href='#'>Contact Us</a></li>
