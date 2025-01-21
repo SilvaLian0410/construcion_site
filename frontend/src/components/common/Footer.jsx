@@ -19,7 +19,6 @@ const Footer = () => {
                 <li><a href='#'>Residential Construction</a></li>
                 <li><a href='#'>Corporate Construction</a></li>
                 <li><a href='#'>Industrial Construction</a></li>
-                <li><a href='#'>Building Construction</a></li>
               </ul>
             </div>
 
