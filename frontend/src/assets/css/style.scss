@@ -324,7 +324,7 @@ header {
         background-size: cover;
         background-position: center;    
         background-repeat: no-repeat;
-        min-height: 800px;
+        min-height: 500px;
 
         color: $text-white;
 
@@ -357,6 +357,44 @@ header {
             .card-subtitle {
                 font-size: 1.3em;
                 color: $light-background;
+            }
+        }
+    }
+}
+
+.section-9 {
+
+    span {
+        padding-bottom: 10px;
+    }
+
+    h2 {
+        padding-bottom: 10px;
+    }
+
+    p {
+        padding-bottom: 10px;
+    }
+
+    .card {
+        border-radius: 25px;
+        .card-body {
+            padding: 25px;
+
+            p {
+                font-size: 1.2em;
+                margin-bottom: 0;
+                padding-bottom: 0px;
+            }
+            
+            a {
+                font-size: 1.2em;
+                padding-bottom: 0px;
+            }
+
+            a p {
+                font-size: 1.2em;
+                padding-bottom: 0px;
             }
         }
     }

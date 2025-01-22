@@ -28,18 +28,18 @@ const Footer = () => {
                 <li><a href='/'>Home</a></li>
                 <li><a href='/about'>About Us</a></li>
                 <li><a href='/services'>Services</a></li>
-                <li><a href='#'>Projects</a></li>
-                <li><a href='#'>Blogs</a></li>
-                <li><a href='#'>Contact Us</a></li>
+                <li><a href='/projects'>Projects</a></li>
+                <li><a href='/blogs'>Blogs</a></li>
+                <li><a href='/contact'>Contact Us</a></li>
               </ul>
             </div>
 
             <div className='col-md-3'>
             <h3 className='mb-3'>Contact Us</h3>
               <ul>
-                <li><a href='#'>(06) 1234567890</a></li>
-                <li><a href='#'>info@silvaconstruction.com</a></li>
-                <li><a href='#'>Level 31, WeWork, Buruj Khalifa, Dubai, UAE</a></li>
+                <li><a href='tel:061234567890'>(06) 1234567890</a></li>
+                <li><a href='mailto:info@silvaconstruction.com'>info@silvaconstruction.com</a></li>
+                <li><a href=''>Level 31, WeWork, Buruj Khalifa, Dubai, UAE</a></li>
               </ul>
             </div>
             <hr />
